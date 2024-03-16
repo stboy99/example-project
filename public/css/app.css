@@ -1,0 +1,20 @@
+tr{
+    border: 1px solid #000 !important;
+}
+th{
+    border-right: 1px solid #000;
+}
+
+.title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bigtitle{
+    font-size: 30px;
+}
+
+.container-form{
+    margin-top: 20px;
+}
